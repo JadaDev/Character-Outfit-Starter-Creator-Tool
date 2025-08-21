@@ -1,3 +1,11 @@
+** IMPORTANT NOTE **
+
+* File Should Start With :  
+```
+int,byte,byte,byte,byte,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+```
+* YOU SHOULD REMOVE , from every line at the end
+  
 This tool is free to use and was made by JadaDev.
 
 Requirements : 
